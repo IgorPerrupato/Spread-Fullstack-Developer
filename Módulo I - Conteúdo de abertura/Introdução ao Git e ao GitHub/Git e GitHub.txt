@@ -1,0 +1,39 @@
+
+Passos para criar, atualizar e sincronizar um repositório no GitHub.
+
+Link para download do git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git. Baixe e Instale.
+
+Configurando o Git Bash:
+para adicionar um e-mail e um usuário utilize respectivamente
+"git config --global user.email "seu email aqui" em seguida
+"git config --global user.name "Nome do Usuario aqui"
+
+Criando Repositório:
+
+- Abrir seu perfil do GitHub 
+- Ir em "+" em seguida New repository
+- Adicionar um nome ao repositório
+- Escolher entre tornar o repositório publico ou privado
+- Escolher entre adicionar ou não um arquivo README
+- Clicar na opção Create Repository e seu repositório estará criado.
+
+Clonando um repositório do GitHub:
+
+- Clicar na opção "Code" em verde no repositório que será clonado.
+- Copiar o link https do repositório
+- Abrir a pasta onde irá o clone do repositório e clicar com botão direito do mouse em "Git Bash Here"
+- Com o terminal da pasta aberto use o comando "git clone" e em seguida cole o link do repositório
+- Aperte Enter e seu repositório estará clonado.
+
+Obs: Se  for a primeira vez utilizando o Git Bash, será necessário se autenticar para conseguir o clone.
+
+Enviando arquivos para o GitHub:
+
+- Primeiro passo é utilizar o comando "git init" para iniciar o repositório
+- Utilize o comando "git add *" para adicionar todos os arquivos da pasta
+- Adicione o endereço do repositório com o comando "git remote origin main ou master"
+- Com o comando "git commit -m "mensagem que será salva no seu commit" será criado um commit para os arquivos que deseja enviar ao GitHub
+- Use o comando "git push origin main ou master" e por fim seus arquivos serão enviados para o GitHub.
+
+

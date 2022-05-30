@@ -1,0 +1,5 @@
+Aula 3: Console
+
+Primeiro instalar o node.js no seu computador para poder rodar o seu código diretamento no terminal.
+
+	Console em uma página da web ou em um terminal.

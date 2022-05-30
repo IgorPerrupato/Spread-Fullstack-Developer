@@ -1,0 +1,23 @@
+Parte 1: TCP/IP
+
+Transmission Control Protocol, que é um protocolo de controle de transmissão que comunica computadores em rede.
+Uma comunicação passa por 4 camadas para transmitir, primeiramente camada física, wireless ou cabo de rede, configurar uma rede, transporte definido como TCP ou UDP e a aplicação que está enviando os dados (FTP, SMTP, HTTP).
+O UDP e TCP são duas formas de conexão entre dispositivos e os dois estão configurados ao conectar à internet.
+UDP é uma conexão rápida, não confiável, não é organizado.
+TCP voltado á conexão, confiável e organizado, integridade e ordem dos dados.
+
+Parte 2: Portas
+
+	As portas por onde os dados chegarão e sairão
+- 20:FTP
+- 22:SSH
+- 25:SMTP
+- 53:DNS
+- 80:HTTP
+- 443:HTTPS
+
+Parte 3: Roteadores, switches e modems
+
+	Modem: Modulator-demodulator, é um hardware que converte dados em um formato que passa a ser transmitido de um computador para outro e lido por outro.
+	Roteador: Distribui internet para um ou mais dispositivos de uma rede, pode fazer comunicação entre redes, esse não direciona o dado apenas ao dispositivo que solicitou, fornece a todos conectados no roteador
+	Switch: Distribui internet para um ou mais dispositivos de uma rede, porem é mais direcionado ao dispositivo que solicitou uso.

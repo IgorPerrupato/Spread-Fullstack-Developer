@@ -1,0 +1,33 @@
+Aula 2: Tipos
+
+Estrutura de Dados
+
+	JavaScript é uma linguagem de tipagem dinâmica. Ou seja, antes d declarar o valor, não é preciso especificar o tipo dele.
+
+
+Dados primitivos e não primitivos
+
+	Primitivos: números, strings, boleanos, null e undefined. Os dados primitivos não têm métodos e são escritos em letras minúsculas.
+	Não Primitivos: objetos e arrays
+
+-Strings: Comumente utilizada para textos; valores declarados  entre aspas ou crases.
+
+Principais Métodos
+- Concatenação
+- Propriedade length
+- Iterabilidade
+- Formatação
+- Index de Letras
+
+- Numbers: Números inteiros ou decimais
+
+- Boleans: Basicamente os valores boleanos são verdadeiros ou falsos, retorna true ou false.
+
+- Arrays: São listas iteráveis de elementos.
+
+- Objetos: Estrutura do tipo “ chave e valor “
+
+- Empty, null e undefined: Valores que retornam algo falso.
+* empty é declarado, o null é quando o valor não existe, undefined valor não é nem declarado, indefinido.
+
+

@@ -1,0 +1,44 @@
+Parte 1: Dados Móveis
+
+	SMS: Primeiramente começou com SMS, que não gera custo a operadora de telefonia para ser enviado. O celular troca naturalmente, alguns bits com as torres de comunicação.
+	MMS: Transmissão de mensagens multimidia (áudio, vídeo) por meio de uma espécie de conexão de dados primitiva.
+
+Conexões móveis
+	Começou com a tecnologia 1G(analógico) que tinha velocidade de 10kbps depois surgiu o 2G(digital) (GSM – Global System for Mobile Communication) com velocidade de 97kbps. Logo depois veio o GPRS(General Packet Radio Service) com velocidade de 2,5G: 32-80kbps, possibilitava transmitir dados e voz ao mesmo tempo. Depois veio o EDGE(Enhanced Data Rates for GSM Evolution) com velocidade de 2,75G:128-236kbps. Posterior a isso veio o 3G(7Mbps), 4G(22,1Mbps) e 5G(10Gbps).
+
+Parte 2: Wi-fi
+
+- IEEE 802.11: 2,4 Ghz, 2Mbps
+- IEEE 802.11a: 5 Ghz, 54Mbps
+- IEEE 802.11b: 2,4Ghz, 11Mbps (diminuição de interferência)
+- IEEE 802.11g: 2,4Ghz/5Ghz, 54Mbps
+- IEEE 802.11n: 2,4Ghz/5Ghz, 150-600Mbps
+
+Segurança:
+
+-WEP: chaves de 64bits e de 128bits
+-WPA: chave trocada periodicamente
+-WPA2: (AES) (802.11i)
+	* + segurança
+	* + processamento
+
+Dispositivos na rede:
+
+- Impressora
+- Scanner
+- Chromecast
+
+Parte 3: Bluetooth
+
+É uma conexão ponto a ponto e não precisa de internet para conectar
+Classes:
+1 – 100Mw com alcance de 100m
+2  – 2,5mW com alcance de 10m
+3 – 1mW com alcance de 1m
+
+Versões:
+- 1.2 com transmissão de 1Mbps
+- 2.0+EDR com transmissão de 3Mbps
+- 3.0 com transmissão de 24 Mbps
+- 4.0 com transmissão de 25Mbps
+- 5.0 com transmissão de 50Mbps

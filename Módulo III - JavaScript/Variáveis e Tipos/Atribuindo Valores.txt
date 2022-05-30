@@ -1,0 +1,28 @@
+Aula 1: Atribuição de Valores
+
+Var e let 
+	Quando usamos a palavra let ela é usada dentro de um bloco e a palavra var é global. O let e const só funcionam com o escopo de bloco.
+
+*Escopos diferentes
+*Hoisting: atribuir valor a variável antes de declarar
+*Redeclaração
+*Reatribuição
+*camelCase
+
+
+Constantes
+
+*Declarada em SNAKE_UPPER_CASE
+*Escopo de bloco
+*Não faz hoisting
+
+
+Let, Var e Const
+
+				Var			const		let
+
+Escopo		global ou bloco		bloco		bloco
+Redeclarar		sim				não		não	
+Reatribuir		sim				não		sim
+Hoisting		sim				não		não
+

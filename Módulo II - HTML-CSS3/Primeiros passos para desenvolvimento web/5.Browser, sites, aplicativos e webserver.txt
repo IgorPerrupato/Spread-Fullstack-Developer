@@ -1,0 +1,26 @@
+Parte 1: Browser
+
+	Para ver um site é preciso um programa que interprete as linguagens de programação (LP) e as transforme em algo compreensível por um humano. 
+Browser: Sabe identificar várias linguagens de programação, linguagens de marcação e conteúdo de multimídia. Hoje, os browsers fazem muito mais que isso, existem plug-ins, ou add-ons que ajudam na navegação.
+Cache: São dados que ficam armazenados no computador para agilizar a abertura de sites que já foram usados anteriormente.
+Cookies: São rastros que os sites deixam no computador através de pesquisas e são mostrados através de anúncios durante sua navegação.
+Página estática x dinâmica
+	As páginas estáticas não têm muita interação. Hoje em dia os sites permitem maior interação com o usuário e tem várias partes independentes.
+
+Parte 2: sites, aplicativos, e-commerce
+
+	Site: É uma página na internet com vários propósitos e podem ser feitas em diversas linguagens de programação. O html está caindo em desuso.
+	Aplicativo: Software que é executado no navegador. Um app de celular as vezes nada mais é do que uma espécie de navegador. Hoje em dia quase não existe diferença entre site e aplicativo, e o primeiro está em declínio.
+	E-commerce: É um comercio eletrônico, site de compra e venda com sistema de pagamento. O sistema de pagamento pode ser exterior ao site ex: PicPay, Boleto, PagSeguro, PayPal, Mercado Pago.
+
+Parte 3: Web server
+	
+	Existem dois tipos, o estático e o dinâmico. O estático é um servidor físico onde são armazenados arquivos, softwares e/ou banco de dados. O dinâmico se refere aos softwares que estão presentes no servidor físico.
+
+	Web-server dinâmico:
+- Arquivos (file server)
+- Aplicações (application server)
+- Banco de dados (database)
+- Tudo junto e misturado 
+	Pode ser um site ou app, que precisa estar hospedado em um servidor para ser acessado. Os dados de um site precisam estar em um servidor e o banco dedados de um site ou app precisa estar em um servidor.
+	Web-service: Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis (Correios, Governo).

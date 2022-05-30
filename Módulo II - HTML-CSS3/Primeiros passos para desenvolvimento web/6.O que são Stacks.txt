@@ -1,0 +1,26 @@
+Parte 1: Stacks
+
+	Um conjunto de software necessários e suficientes para executar um aplicativo/programa. Linguagens de programação. Ambientes e ferramentas de interação com o app/sw. Capacidade e limitação de performance. Pontos forte e fracos do app.
+	Um ambiente tecnológico com todas as ferramentas e capacidades disponiveis.
+
+Importância: Os líderes de projeto precisam das informações das equipes de desenvolvimento para saber as limitações e capacidades das ferramentas que tem disponíveis. (Sistema, banco de dados, linguagens de programação, protocolos de comunicação).
+	Estratégias de negócios, maturidade de desenvolvimento e contratações, planos de mitigações de riscos, aumento da capacidade, uso de dados.
+
+Parte 2: Definição de Front-end, Back-end e Fullstack
+
+	Front-end
+
+- Responsável pela parte visual (parte da frente) de um site, software, aplicativo, web servisse.
+- UI (User interface) e UX (User experience)
+- Logica de programação, HTML, CSS,jQuert/JS/AJAX, PHP, Bootstrap/outros frameworks
+
+	Back-end
+
+- Responsável pela parte de trás do site
+- Servidores, banco de dados
+- Entre interface e banco de dados, regras de negócios, validações
+- MySQL, Oracle, protocolos de comunicações, PHP, Java, node.js
+
+	Full stack
+
+Profissional que sabe trabalhar em todas as camadas das tecnologias de desenvolvimente/execução de um app/sw.

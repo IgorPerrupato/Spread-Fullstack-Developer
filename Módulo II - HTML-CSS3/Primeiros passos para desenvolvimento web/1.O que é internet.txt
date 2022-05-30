@@ -1,0 +1,32 @@
+Parte 1: História
+
+	Surgiu em 1969 nos EUA conhecida como Arpanet criada no Departamento de Defesa da Guerra Fria com intuito de facilitar a comunicação entre os laboratórios.
+	Em 1982 começou a ir para as Universidades para função de pesquisas na Holando, Dinamarca e Suécia. Em 1987 foi liberada para o uso comercial nos EUA. 1992 foi liberada a qualquer pessoa.
+
+No Brasil:
+1988 FAPESP, UFRJ e LNCC trouxeram para o Brasil restrito as Universidades. Em 1994 a EMBRATEL trouxe para uso comercial como conexão discada, a banda larga somente em 2000.
+
+Parte 2: Termos-chave
+
+download/upload		host			multimídea
+navegador			HTML			nick
+banda larga		HTTP			online/offline
+cache				ícone			pixel
+crack				link			spam
+email				loguin/logon	URL
+emoticons/emoji		logout/logoff	vírus
+gif/jpg/png		mp3
+
+backup		keylogger
+blog			phishing
+(cyber)bullying	click bait
+3G/4G/5G		fake news
+cookies		podcast
+firewall		vlog
+hacker		pop-up
+IP			youtuber
+
+Parte 3: Atualmente
+
+	134 milhões de brasileiros tem acesso à internet, o que representa cerca de 75% da população, 10 anos atrás apenas 41%. A maior parte são de mulheres e pessoas que residem em áreas urbanas. 97% pessoas com Ensino Superior acessam a internet e 16% de pessoas analfabetas ou com ensino infantil. 81% dos empregados e 64% dos desempregados. (dados de 2020)
+	Em relação aos dispositivos 99% têm acesso a internet e dos computadores, 42%. Em aparelhos de tv 37% em videogames apenas 9%. Quanto as buscas na internet o que mais se destaca são produtos e serviços que representam 59% das pessoas. Com a pandemia teve um aumento de 112% do uso desse meio de comunicação.

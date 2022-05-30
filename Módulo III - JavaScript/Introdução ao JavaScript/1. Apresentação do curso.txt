@@ -1,0 +1,22 @@
+Aula 1: O que é o JavaScript
+
+História
+
+Interpretada (não precisa passar por compilador, é gerada em tempo real)
+Baseada em Protótipos (base para grandes estruturas de dados, um conjunto de funções e possibilidades incomuns a todas essas estruturas de dados)
+Multiparadigma (possibilita escolher entre programação objetos, funcional ou estruturada)
+Comumente utilizada em aplicações web cliente-side (parte da aplicação que interage com o usuário)
+Segue o padrão ECMAScript 
+
+Evolução
+
+	Criado em 1995, em 1997 foi lançado a primeira edição. 1998 segunda edição que não teve muita alteração relevante. 1999 teve a terceira edição com função de expreções regulares e try/catch. Em 2009 a versão 5 foi lançada e 2015 surgiu a sexta versão que trouxe muita atualização para o JavaScript.
+
+Aplicações
+
+Web
+Mobile
+Smartwatches
+Games
+Internet of Things
+APIs

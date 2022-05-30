@@ -1,0 +1,6 @@
+Aula 4: JavaScript em uma página HTML
+
+	DOM: estrutura dos elementos dentro da janela, mostra tudo o que tem disponível na janela.
+
+h1-h6 - Título
+p - Parágrafo

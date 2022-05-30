@@ -1,0 +1,18 @@
+Aula 2: Manipulando um Arquivo
+
+	// - faz um comentário em uma linha do código.
+	/* */ - faz um comentário de várias linhas
+	Atalho para comentar: ctrl e / ou selecionar tudo e ctrl e /
+	Function – para declarar uma função 
+	Return – usa quando precisa manipular o resultado da função em outra função
+	Console.log – serve para ver o valor 
+
+	Declarar função
+
+ function soma(a,b) {
+	return a + b;
+}
+
+Retornar função 
+
+	Soma(3, 5);

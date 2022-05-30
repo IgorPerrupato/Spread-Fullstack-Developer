@@ -1,0 +1,31 @@
+Parte 1: Principais LPs
+
+(Linguagem de Marcação)
+*HTML
+*CSS
+(Linguagem de Programação)
+*JavaScript (Jquery, AJAX, diversas libs)		*Ruby (on Rails)
+*PHP						*Phyton
+*.NET						*Perl
+*ASP						*C/C++/C#
+*Java
+
+Termos Comuns:
+*404		*Breakpoints		*Deploy			*Favicon
+*Algoritmo	*Browser/navegador	*Design adaptativo/ responsivo	*Fontes
+*ALT		*Bug			*DNS				*Framework
+*API		*Cache			*Documentação		*Front-end
+*Aplicação	*Código		*Domínio			*FTP
+*Back-end	*Controle de versão	*DPI				*Full-stack
+*Biblioteca/dll	*Cookies		*Editor de texto		*Github/SVN/CVS	
+*Bootstrap	*Debug			*Estrutura de dados		*HTTP (S)
+
+*IP		*Resolução
+*Linguagem	*Servidor
+*Meta tags	*Sistema Operacional/SO
+*Método ágil	*Solução
+*Mobile	*SSL
+*MVC		*UI
+*MVP		*UX
+*MySQL	*Versão
+*Pixel		*WYSIWYG
