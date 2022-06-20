@@ -1,0 +1,37 @@
+Aula 3: Loops	
+
+
+If/else
+
+	Primeiramente é estipulada uma condição, após isso são feitas declarações, a primeira dentro do if (Ocorre caso a condição seja verdadeira) e a segunda dentro do else (Ocorre caso a condição seja falsa). JavaScript não tem elseif, as palavras sempre estão espaçadas.	
+
+Switch/case
+
+	Equivale a uma comparação de tipo e valor (===), sempre precisa de um valor “default”, é ideal para quando se precisa comparar muitos valores.
+
+
+For/While
+
+
+For
+	Loop dentro de elementos iteráveis (arrays, strings). 
+
+For().
+
+For()...in – Loop entre propriedades enumeráveis de um objeto.
+
+For()...of – Loop entre estruturas iteráveis (arrays, strings).
+
+While e do...while
+
+
+While
+
+	Executa instruções até que a condição se torne falsa.
+
+
+Do..while
+
+	Executa instruções até que a condição se torne falsa. Porém a primeira execução sempre ocorre
+	
+	

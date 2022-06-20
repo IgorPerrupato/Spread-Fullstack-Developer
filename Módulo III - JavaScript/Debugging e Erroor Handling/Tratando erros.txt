@@ -1,0 +1,13 @@
+Aula 2: Tratando Erros
+
+Throw
+
+	Quando utilizamos o Throw o comportamento do console retorna um erro 
+
+Try...catch
+
+	É uma declaração que verifica um pedaço de código que se tiver algum erro esse erro será capturado na função catch e pode ser manipulado nessa função.
+
+Finally
+
+	Uma instrução chamada independente de erro, que executa depois das verificações necessárias. Apresentando o erro ou o resultado das verificações 

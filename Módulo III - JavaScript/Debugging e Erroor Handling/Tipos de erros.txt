@@ -1,0 +1,13 @@
+Aula 1: Tipos de erros
+
+	ECMAScript Error
+
+Composto por:
+- Mensagem
+- Nome
+- Linha
+- Call Stack
+
+DOMException
+
+Erros relacionados ao código relacionado a uma pagina da internet DOM

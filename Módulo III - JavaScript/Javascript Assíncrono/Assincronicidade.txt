@@ -1,0 +1,18 @@
+Aula 1: Assincronicidade
+
+	Assíncrono é algo que não o corre ou não se efetiva ao mesmo tempo. O Javascript roda de maneira síncrona.
+
+Promises
+
+	Objeto de processamento assíncrono, inicialmente seu valor é desconhecido. Ela pode então ser resolvida ou rejeitada.
+Pending 
+Fulfilled
+Rejected  
+
+Estrutura
+
+New Promise(resolve, reject)
+
+Async/await
+
+	Funções assíncronas precisam dessas duas palavras chaves. A palavra async serve para dizer que uma função é assíncrona. A palavra await serve para finalizar um código.

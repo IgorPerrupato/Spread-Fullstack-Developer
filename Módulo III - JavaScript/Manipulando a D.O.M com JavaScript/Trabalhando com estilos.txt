@@ -1,0 +1,6 @@
+Aula 3: Trabalhando com estilos
+
+Classes: Element.classList
+
+CSS: Acessando diretamente o CSS de um elemento
+Document.getElementsByTagName(“p”).styke.color = “blue”;

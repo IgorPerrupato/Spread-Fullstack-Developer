@@ -1,0 +1,22 @@
+Aula 2: Selecionando elementos
+
+	Estrutura HTML
+
+Tag: o que representa a parte do código (html, body, h1, section...)
+Id: identificador único
+Class: identificadores que não são únicos.
+
+Tipos de Buscas:
+
+document.getElementById(‘titulo’)
+document.getElementsByTagName(‘li’)
+document.getElementsByClass(‘textos’)
+document.querySelectorAll(‘.primeira-classe .segunda-classe’)
+document.querySelectorAll(‘li .opcao’)
+
+Adicionar e deletar
+
+Document.createElement(element) = Cria um novo elemento HTML
+Document.removeChild(element) = Remove um elemento
+Document.appendChild(element) = Adiciona um elemento
+Document.replaceChild(new, old) = Substitui um elemento

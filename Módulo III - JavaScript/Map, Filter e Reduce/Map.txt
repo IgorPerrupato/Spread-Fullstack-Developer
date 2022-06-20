@@ -1,0 +1,19 @@
+Aula 1: Map
+
+É quando um conjunto passa por uma operação e forma outro conjunto.
+
+- Cria um novo array
+ - Não modifica o array original
+- Realiza as operações em ordem
+
+Sintaxe
+
+Array.map(call-back, thisArg)
+
+Callback: função a ser executada em cada elemento (item, index, array)
+thisArg (opcional): valor de ‘this’ dentro da função de call-back
+
+ Map vs forEach
+
+- Valor a ser retornado
+- Considere se o array auxiliar será necessário

@@ -1,0 +1,9 @@
+Aula 2: Consumindo APIs
+
+	Application Programming Interface. Uma API é uma forma de intermediar os resultados do back-end com o que é apresentado no front-end. Podemos acessá-la por meio das URLs.
+JSON: JavaScript Object Notatio. É muito comum que APIs retornem seus dados no formato .json, portando precisamos tratar esses dados quando os recebemos.
+
+Fetch
+
+	Fetch(url, options)
+Operações no banco (POST, GET, PUT, DELETE, etc)

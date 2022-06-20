@@ -1,0 +1,14 @@
+Aula 3: Reduce
+
+Não retorna um novo array.
+
+- Executa uma função em todos os elementos do array, retornando um valor único
+
+Sintaxe
+
+Array.reduce(callbackFn, initialVale)
+
+Callback: função a ser executada a partir do acumulador
+initialValue(opcional): valor sobre o qual o retorno final irá atuar
+Accumulador/prevValue: acumulador de todas as chamadas de callbackFn
+currentValue: elemento atual sendo acessado pela função

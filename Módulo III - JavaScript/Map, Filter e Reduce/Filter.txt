@@ -1,0 +1,13 @@
+Aula 2: Filter
+
+Como se colocasse todo o array dentro de um filtro e apenas os item que satisfazem determinada condição são retornados em um novo array que será criado.
+
+- Cria um novo array
+- Não modifica o array original
+
+Sintaxe
+
+Array.filter(call-back, thisArg)
+
+Callback: função a ser executada em cada elemento (item, index, array)
+thisArg (opcional): valor de ‘this’ dentro da função de call-back

@@ -1,0 +1,12 @@
+Aula 5: Arrow Functions
+
+
+	É representada por “ => ” . Não precisa escrever o return e chaves para função pequena de uma linha. E está sempre aliada a uma variaval/constante. Caso exista apenas um parâmetro, pode dispensar os parênteses. Arrow function não faz hoisting.
+
+
+Outras restrições
+
+
+	- this sempre será o objeto global. Métodos para modificar seu valor não irão funcionar.
+	- Não existe o objeto “arguments”
+	- O construtor ( ex: new MeuObjeto()) também não pode ser utilizado.

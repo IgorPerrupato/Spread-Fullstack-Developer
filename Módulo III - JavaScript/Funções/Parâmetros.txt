@@ -1,0 +1,18 @@
+Aula 2: Valores padrão e Objeto “arguments”
+
+Valores padrão
+	Quando tem uma função e não estipula parâmetros, esse recebe um valor padrão.
+
+
+Objeto “arguments”
+	Um array com todos os parâmetros passados quando a função foi invocada.
+
+Array e Objetos
+
+Array
+	Spread: uma forma de lidar separadamente com elementos. O que era parte de um array se torna um elemento independente. 
+	Rest: combina os argumentos em um array. O que era um elemento independente se torna parte de um array.
+
+
+Objetos
+	Object Destructuring: Entre chaves {}, podemos filtrar apenas os dados que nos interessam em um objeto.

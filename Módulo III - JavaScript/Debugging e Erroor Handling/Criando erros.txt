@@ -1,0 +1,6 @@
+Aula : Criando erros personalizados
+
+O objeto Error
+
+	Error(message, fileName, lineNumber)
+.name = atribui um nome ao erro
